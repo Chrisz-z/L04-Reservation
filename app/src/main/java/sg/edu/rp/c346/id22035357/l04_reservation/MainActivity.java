@@ -12,7 +12,6 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
 
-import java.sql.Time;
 
 public class MainActivity extends AppCompatActivity {
 
