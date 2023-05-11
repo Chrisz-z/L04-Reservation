@@ -15,6 +15,15 @@
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:text="@string/reservation_form"/>
+
+
             <EditText
                 android:id="@+id/etName"
                 android:layout_marginTop="20dp"
@@ -46,9 +55,8 @@
                 android:id="@+id/DP1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:datePickerMode="spinner"
-                android:calendarViewShown="false">
-            </DatePicker>
+                android:calendarViewShown="false"
+                android:datePickerMode="spinner"></DatePicker>
 
             <TimePicker
                 android:id="@+id/TP1"
