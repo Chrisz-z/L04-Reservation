@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">L04-Reservation</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="group_size">Group size</string>
+    <string name="book">Book</string>
+    <string name="reset">Reset</string>
+    <string name="smoking_area">Smoking area</string>
+    <string name="non_smoking_area">Non-Smoking Area</string>
 </resources>
